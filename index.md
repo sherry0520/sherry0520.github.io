@@ -2,23 +2,39 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
+[访问中文简历](./chinese-page.html).
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Basic Info
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+* * *
 
-## Header 2
+# Education
+2002 – 2005		Shanghai Jian Qiao University		                          Business English
+2007 – 2009		East China Normal University 		                          Applied Linguistics
+
+* * *
+
+# Self-Evaluation
+Over 10 years of working experience as HR executive and HR manager.
+Expert in pay plan, recruitment and employee relations. 
+Bachelor of Arts in East China Normal University.
+National Certificate of Human Resource Managers (Class 2).
+Psychologist.
+
+* * *
+
+# Archievement
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
+
+
+
 
 ### Header 3
 
