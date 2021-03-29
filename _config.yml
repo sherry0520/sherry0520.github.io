@@ -1,13 +1,13 @@
 # Site settings
-name: Yiming Zhou
-location: Chengdu/Beijing
-company: UISEE
-position: Computer Vision Engineer
-github: https://github.com/zym1119
-phone: 18113114505
-email: 823756414@qq.com
+name: Sherry Xue
+location: HR Manager
+company: Shanghai
+position: 
+github: https://sherry0520.github.io/
+phone: 18516261826
+email: 34106075@qq.com
 
-baseurl: "/zym1119.github.io"
+baseurl: "/sherry0520.github.io"
 
 permalink: /:year/:month/:day/:title/
 
