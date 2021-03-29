@@ -13,19 +13,21 @@ layout: default
                               <a href="index.html" data-tooltip="Home"><img class="avatar avatar-42" src="{{ '/styles/img/薛莲.jpg' | prepend: site.baseurl }}" alt=""></a>
                             </li>
                             <li>
-                              <a href="#basic_info" data-tooltip="Info"><span class="ace-icon ace-icon-home"></span></a>
-                            </li>
-                            <li>
-                              <a href="#profetional" data-tooltip="Skill"><span class="ace-icon ace-icon-experience"></span></a>
+                              <a href="#basic_info" data-tooltip="基本信息"><span class="ace-icon ace-icon-home"></span></a>
                             </li>
 
                             <li>
-                              <a href="#education" data-tooltip="Education"><span class="ace-icon ace-icon-portfolio"></span></a>
+                              <a href="#education" data-tooltip="教育背景"><span class="ace-icon ace-icon-portfolio"></span></a>
                             </li>
                             
                             <li>
-                              <a href="#experience" data-tooltip="Experience"><span class="ace-icon ace-icon-references"></span></a>
+                              <a href="#experience" data-tooltip="自我评价"><span class="ace-icon ace-icon-references"></span></a>
                             </li>
+                            
+                            <li>
+                              <a href="#profetional" data-tooltip="工作经历"><span class="ace-icon ace-icon-experience"></span></a>
+                            </li>
+
                       
                         </ul>
                     </nav>
@@ -52,10 +54,16 @@ layout: default
                     {% include resumer_01-basic.html %}               
 
                     {% include resumer_03-education.html %}
-
+                        
+                    {% include resumer_05-certification.html %}
+                        
+                    {% include resumer_06-personal_project.html %}     
+                
                     {% include resumer_04-experience.html %}
                     
                     {% include resumer_02-profetional.html %}
+
+                   
                         
                     </div><!-- .padd-box -->
                 <!-- END: PAGE CONTENT -->
