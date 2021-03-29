@@ -7,7 +7,7 @@ github: https://sherry0520.github.io/
 phone: 18516261826
 email: 34106075@qq.com
 
-baseurl: "/sherry0520.github.io"
+# baseurl: "/sherry0520.github.io"
 
 permalink: /:year/:month/:day/:title/
 
